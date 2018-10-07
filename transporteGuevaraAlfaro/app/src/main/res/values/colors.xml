@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#E5E7E9</color>
+    <color name="colorPrimaryDark">#2e86c1</color>
+    <color name="white">#FFFFFF</color>
+    <color name="colorAccent">#F32153</color>
+    <color name="colorFondo">#85c1e9 </color>
+    <color name="darkgray">#6c6c6c</color>
+    <color name="inicio">#d6cccc</color>
+    <color name="nuevo">#2675ab</color>
+    <color name="rojo_transporte">#c93c3c</color>
+</resources>

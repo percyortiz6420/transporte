@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+   <!-- <item android:id="@+id/eventos" android:title="Eventos" android:icon="@drawable/ic_event_note_black_24px"/>-->
+
+   <item android:id="@+id/misViajes" android:title="Mis viajes" android:icon="@drawable/camion" />
+   <item android:id="@+id/agregarViajes" android:title="Agregar Viajes" android:icon="@drawable/add"  />
+
+    <!-- <item android:id="@+id/anuncios" android:title="Publicidad"/> -->
+
+
+
+
+
+</menu>
